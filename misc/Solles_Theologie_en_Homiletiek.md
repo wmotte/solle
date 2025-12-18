@@ -20,7 +20,6 @@ Deze verschuiving had ingrijpende gevolgen voor de christologie. Sölle ontwikke
 | **Functie van Lijden** | Onderdeel van een onbegrijpelijk goddelijk plan. | Een te bestrijden kwaad waarin God zelf gemarteld wordt. |
 | **Context** | Geïsoleerd van de politieke en sociale realiteit. | Noodzakelijkerwijs politiek; theologie is maatschappijkritiek. |
 
-1
 
 ### **Feministische Bevrijdingstheologie en de Dekonstructie van Patriarchaat**
 
@@ -32,7 +31,7 @@ Zij pleitte voor een bevrijding van het symbool 'God' uit deze patriarchale geva
 
 Een van de meest opmerkelijke ontwikkelingen in Sölles denken was haar toenemende focus op de mystiek, culminerend in haar magnum opus *Mystiek en verzet* (1998). Zij brak met de heersende opvatting dat mystiek een individualistische vlucht uit de wereld was. Integendeel, Sölle stelde dat ware mystiek de basis vormt voor het meest radicale verzet tegen onrecht.
 
-Zij definieerde mystiek als het "verlangen naar God" en de ervaring van eenheid met het goddelijke die de mens bevrijdt van de afgoderij van macht en bezit. Door te putten uit de tradities van middeleeuwse mystici zoals Meister Eckhart, vond zij een taal die niet gebonden was aan de rationele structuren van de dogmatiek. De mystiek bood haar een manier om over God te spreken die niet langer autoritair was, maar uitnodigend en veranderend. De "mystiek van de open ogen" hield in dat de goddelijke aanwezigheid juist daar gezocht werd waar mensen lijden en waar tegen dat lijden wordt gevochten.8
+Zij definieerde mystiek als het "verlangen naar God" en de ervaring van eenheid met het goddelijke die de mens bevrijdt van de afgoderij van macht en bezit. Door te putten uit de tradities van middeleeuwse mystici zoals Meister Eckhart, vond zij een taal die niet gebonden was aan de rationele structuren van de dogmatiek. De mystiek bood haar een manier om over God te spreken die niet langer autoritair was, maar uitnodigend en veranderend. De "mystiek van de open ogen" hield in dat de goddelijke aanwezigheid juist daar gezocht werd waar mensen lijden en waar tegen dat lijden wordt gevochten.
 
 ## **De Homiletische Methode: Het Politisches Nachtgebet**
 
@@ -44,7 +43,7 @@ De structuur van het Politiek Avondgebed was niet arbitrair, maar volgde een doo
 
 1. **Informatie (Politieke Analyse):** Elke bijeenkomst begon met de feitelijke presentatie van een actueel politiek of maatschappelijk probleem. Dit kon variëren van de gruwelen van de Vietnamoorlog tot de economische uitbuiting in de Derde Wereld of de discriminatie van vrouwen in de eigen samenleving. Er werden krantenartikelen voorgelezen, statistieken gepresenteerd en getuigenissen van ervaringsdeskundigen gedeeld. Voor Sölle was 'vroomheid' zonder kennis van de wereldse feiten een vorm van blindheid die het onrecht indirect legitimeerde.
 2. **Meditatie (Theologische Reflectie):** In de tweede fase werd de gepresenteerde informatie in dialoog gebracht met de bijbelse traditie. De Bijbel werd niet gebruikt om de status quo te rechtvaardigen, maar als een kritisch instrument om de machtsstructuren te ontmaskeren. Sölle zocht naar parallellen tussen de lijdenservaringen van vandaag en de profetische teksten of het lijden van Jezus. De meditatie was hier een actieve vorm van betekenisgeving, waarbij de vraag centraal stond: "Wat heeft het evangelie te zeggen over deze concrete situatie?". 
-3. **Discussie (Publieke Dialoog):** In tegenstelling tot de traditionele preek, waarbij de predikant als enige het woord voert, was het Politiek Avondgebed gericht op participatie. Na de meditatie volgde een open discussie waarin deelnemers hun zorgen, twijfels en inzichten konden delen. Dit doorbrak de hiërarchische structuur van de kerk en maakte van de bijeenkomst een democratisch leerproces.12  
+3. **Discussie (Publieke Dialoog):** In tegenstelling tot de traditionele preek, waarbij de predikant als enige het woord voert, was het Politiek Avondgebed gericht op participatie. Na de meditatie volgde een open discussie waarin deelnemers hun zorgen, twijfels en inzichten konden delen. Dit doorbrak de hiërarchische structuur van de kerk en maakte van de bijeenkomst een democratisch leerproces.  
 4. **Actie (Concreet Verzet):** De liturgie eindigde niet met een zegen die de mensen weer naar huis stuurde in hun oude leven, maar met een actievoorstel. Er werden concrete stappen besproken om de situatie te veranderen, zoals het ondertekenen van petities, het organiseren van boycots of het plannen van demonstraties. Gebed zonder actie was in de ogen van Sölle een vorm van huichelarij.
 
 | Fase van het Nachtgebet | Inhoud en Activiteit | Doelstelling |
@@ -54,7 +53,6 @@ De structuur van het Politiek Avondgebed was niet arbitrair, maar volgde een doo
 | **Discussie** | Open gesprek tussen predikant en gemeenteleden. | Collectieve bewustwording en democratisering. |
 | **Actie** | Formuleren van concrete stappen en protest. | De transformatie van geloof in maatschappelijk handelen. |
 
-12
 
 ### **De Homiletische Context van de Antoniterkirche**
 
@@ -104,13 +102,13 @@ De betekenis van Dorothee Sölle voor de hedendaagse theologie en homiletiek kan
 
 ### **Een Voorbeeld van Scherpzinnige Authenticiteit**
 
-De kracht van Sölle lag volgens de Protestantse Kerk in Nederland in de "scherpzinnige authenticiteit" van haar denken en haar geleefde geloof. Zij weigerde concessies te doen aan een religieuze vorm die geen antwoord bood op de werkelijke vragen van het leven. Haar bereidheid om als "tegenstem" te fungeren en haar eigen kwetsbaarheid en tekortkomingen in haar werk te integreren, maakte haar tot een voorbeeldfiguur voor velen die worstelden met de traditionele kerkvormen.
+De kracht van Sölle lag volgens de [Protestantse Kerk in Nederland](https://protestantsekerk.nl/verdieping/wie-was-dorothee-solle/) in de "scherpzinnige authenticiteit" van haar denken en haar geleefde geloof. Zij zocht naar een "nieuwe taal" voor geloof, theologie en kerk; een uitdaging die ook voor de hedendaagse kerk onverminderd actueel is. In haar streven naar een "ontmythologisering" van de Bijbel en haar radicale "God-is-dood-theologie" stelde zij dat het beeld van een almachtige God na de verschrikkingen van de Holocaust niet langer houdbaar was. Voor Sölle was God zelf "vermoord in de kampen". Hoewel zij door academische tijdgenoten vaak werd weggezet als een "niet-wetenschappelijke theologe", sprak zij juist door haar eerlijkheid over de breuken tussen bestaan en geloof velen aan. Zij weigerde concessies te doen aan een religieuze vorm die geen antwoord bood op de werkelijke vragen van het leven. Haar bereidheid om als "tegenstem" te fungeren en haar eigen kwetsbaarheid en tekortkomingen in haar werk te integreren, maakte haar tot een voorbeeldfiguur voor velen die worstelden met de traditionele kerkvormen.
 
 Haar methode van het Politiek Avondgebed leeft voort in tal van hedendaagse vormen van liturgie en maatschappelijk engagement. De integratie van feitelijke informatie over klimaatverandering, racisme en sociale ongelijkheid in de liturgische ruimte wordt vandaag de dag gezien als een legitieme voortzetting van haar profetische traditie.
 
 ### **Conclusie: De Onvoltooide Revolutie**
 
-De theologie van Dorothee Sölle herinnert eraan dat religie geen vlucht uit de werkelijkheid mag zijn, maar een manier om die werkelijkheid dieper te bewonen en te veranderen. Haar homiletiek was een poging om de muren van de kerk af te breken en de stem van de lijdenden binnen te laten klinken.12 Door de mystiek te verbinden met het verzet, bood zij een krachtig alternatief voor zowel de droge dogmatiek als voor de oppervlakkige vroomheid.
+De theologie van Dorothee Sölle herinnert eraan dat religie geen vlucht uit de werkelijkheid mag zijn, maar een manier om die werkelijkheid dieper te bewonen en te veranderen. Haar homiletiek was een poging om de muren van de kerk af te breken en de stem van de lijdenden binnen te laten klinken. Door de mystiek te verbinden met het verzet, bood zij een krachtig alternatief voor zowel de droge dogmatiek als voor de oppervlakkige vroomheid.
 
 Zij liet een omvangrijk oeuvre na van meer dan veertig boeken, talloze gedichten en gebeden, die nog steeds fungeren als een bron van hoop en verontwaardiging. In een wereld die nog steeds wordt geteisterd door ongelijkheid, geweld en apathie, blijft haar oproep om "de revolutie van Jezus verder te drijven" een dwingende opdracht voor een geloof dat werkelijkheid durft te worden. De nalatenschap van Sölle is daarmee niet een voltooid systeem, maar een voortdurende uitnodiging om met open ogen en een bewogen hart in de wereld te staan.
  
