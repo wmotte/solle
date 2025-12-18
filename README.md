@@ -212,7 +212,7 @@ Output:
 
 De scripts gebruiken 28 authentieke preken van Dorothee Sölle als stijlreferentie. Deze zijn afkomstig uit:
 
-**Dorothee Sölle, *Gesammelte Werke*, Band 11: Predigten, Kreuz Verlag, Stuttgart**
+**Dorothee Sölle, *Gesammelte Werke*, Band 11: Löse die Fesseln des Unrechts, Verlag Herder (eBook; 2023)**
 
 Dit elfde deel van Sölles verzameld werk bevat preken uit verschillende periodes van haar leven, gehouden in kerken, bij de Politische Nachtgebete, en bij andere gelegenheden. De preken zijn vertaald naar het Nederlands voor gebruik in dit project.
 
